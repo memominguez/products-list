@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "itemName": "Jugo de Zanahoria",
+      "price": "1"
+    },
+    {
+      "id": 2,
+      "itemName": "Jugo de Naranja",
+      "price": "1"
+    },
+    {
+      "id": 4,
+      "itemName": "Rib Eye 800g",
+      "price": "7.25"
+    },
+    {
+      "id": 5,
+      "itemName": "Jugo de Fresa",
+      "price": "2.10"
+    },
+    {
+      "id": 8,
+      "itemName": "Mango",
+      "price": ".3"
+    },
+    {
+      "id": 9,
+      "itemName": "Melón",
+      "price": "1.25"
+    },
+    {
+      "itemName": "Horchata",
+      "price": "1.20",
+      "id": "837195ae-5fb1-406f-97b1-d43f62efc53e"
+    },
+    {
+      "itemName": "Pan con pollo",
+      "price": "1.85",
+      "id": "2bca5ca8-8429-4516-adf2-cb48db1113c8"
+    },
+    {
+      "itemName": "Taza de te",
+      "price": ".75",
+      "id": "63485cdf-16f8-4b46-a2bd-7ea1ff374768"
+    },
+    {
+      "itemName": "Elote asado",
+      "price": ".3",
+      "id": "0048c714-9c5a-46d7-a220-c2e9ad0d4b0f"
+    }
+  ]
+}
